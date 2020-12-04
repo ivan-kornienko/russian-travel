@@ -21,9 +21,9 @@
 
 @media screen and (max-width: 768px) {
     .intro__title {
-        padding-bottom: 33px;
-        font-size: 42px;
-        line-height: 46px;
+        padding-bottom: 40px;
+        font-size: 54px;
+        line-height: 58px;
 }}
 
 @media screen and (max-width: 425px) {

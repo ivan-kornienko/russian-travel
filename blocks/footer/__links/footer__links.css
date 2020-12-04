@@ -22,6 +22,11 @@
 
 @media screen and (max-width: 768px) {
     .footer__links {
+        
+}}
+
+@media screen and (max-width: 590px) {
+    .footer__links {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -32,10 +37,6 @@
         -webkit-box-align: start;
         -ms-flex-align: start;
                 align-items: flex-start;
-}}
-
-@media screen and (max-width: 425px) {
-    .footer__links {
         
 }}
 

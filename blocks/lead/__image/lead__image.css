@@ -1,0 +1,45 @@
+.lead__image {
+    padding-bottom: 8px;
+    width: 100%;
+    height: calc(100vw/1.6);
+    max-height: 615px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -ms-grid-column: 1;
+    grid-column: 1;
+    -ms-grid-row: 3;
+    grid-row: 3;
+    z-index: 2;
+
+}
+
+@media screen and (max-width: 1440px) {
+    .lead__image {
+        
+        
+}}
+
+@media screen and (max-width: 1024px) {
+    .lead__image {
+    
+        
+        
+}}
+
+@media screen and (max-width: 768px) {
+    .lead__image {
+        
+        
+}}
+
+@media screen and (max-width: 425px) {
+    .lead__image {
+        
+        
+}}
+
+@media screen and (max-width: 320px) {
+    .lead__image {
+        
+        
+}}

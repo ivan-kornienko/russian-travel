@@ -1,0 +1,33 @@
+.places {
+    display: -ms-grid;display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 80px;
+    
+}
+
+@media screen and (max-width: 1440px) {
+    .places {
+        padding: 92px 11.6% 0px 11.6%;
+        
+}}
+
+@media screen and (max-width: 1024px) {
+    .places {
+        padding: 92px 4.7% 0px 4.7%;
+}}
+
+@media screen and (max-width: 768px) {
+    .places {
+        padding: 88px 3.1% 0px 3.1%;
+}}
+
+@media screen and (max-width: 425px) {
+    .places {
+        padding: 64px 0px 0px 0px;
+}}
+
+@media screen and (max-width: 320px) {
+    .places {
+        
+}}

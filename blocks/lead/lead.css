@@ -1,0 +1,40 @@
+.lead {
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    
+    
+   
+}
+
+@media screen and (max-width: 1440px) {
+    .lead {
+        padding: 56px 11.6% 0px 11.6%;
+        
+}}
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        padding: 48px 4.7% 0px 4.7%;
+}}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        padding: 48px 0px 0px 0px;
+}}
+
+@media screen and (max-width: 425px) {
+    .lead {
+        
+}}
+
+@media screen and (max-width: 320px) {
+    .lead {
+        
+}} 

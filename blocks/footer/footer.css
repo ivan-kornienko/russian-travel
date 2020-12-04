@@ -1,0 +1,43 @@
+.footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: baseline;
+    -ms-flex-align: baseline;
+            align-items: baseline;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+            justify-content: space-between;
+    
+
+}
+@media screen and (max-width: 1440px) {
+    .footer {
+        padding: 92px 3.8% 24px 3.8%;
+}}
+
+@media screen and (max-width: 1024px) {
+    .footer {
+        padding: 92px 4.7% 0px 4.7%;
+}}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        padding: 88px 3.1% 24px 3.1%;
+        -webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;
+}}
+
+@media screen and (max-width: 425px) {
+    .footer {
+        padding: 64px 5% 24px 5%;
+}}
+
+@media screen and (max-width: 320px) {
+    .footer {
+        
+        
+}} 

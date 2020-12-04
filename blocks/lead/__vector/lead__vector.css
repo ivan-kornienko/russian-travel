@@ -1,0 +1,17 @@
+.lead__vector {
+    width: 95%;
+    max-height: 615px;
+    -o-object-fit: contain;
+       object-fit: contain;
+    -ms-grid-column: 1;
+    grid-column: 1;
+    -ms-grid-row: 3;
+    grid-row: 3;
+    align-self: flex-start;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    z-index: 3;
+    padding-top: 9.7%;
+    
+}
+

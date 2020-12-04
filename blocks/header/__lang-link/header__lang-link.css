@@ -1,0 +1,40 @@
+.header__lang-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    color: #FFFFFF;
+    list-style: none;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+.header__lang-link:last-of-type {
+    margin-left: 18px;
+}
+
+@media screen and (max-width: 1440px) {
+    .header__lang-link {
+}}
+
+@media screen and (max-width: 1024px) {
+    .header__lang-link {
+}}
+
+@media screen and (max-width: 768px) {
+    .header__lang-link {
+}}
+
+@media screen and (max-width: 425px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+}}
+
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        
+}} 

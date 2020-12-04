@@ -1,0 +1,31 @@
+.cover__item {
+    text-decoration: none;
+    -ms-grid-column: 1;
+    grid-column: 1;
+    -ms-grid-row: 1;
+    grid-row: 1;
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+}
+
+@media screen and (max-width: 1440px) {
+    .cover__item {
+}}
+
+@media screen and (max-width: 1024px) {
+    .cover__item {
+}}
+
+@media screen and (max-width: 768px) {
+    .cover__item {
+}}
+
+@media screen and (max-width: 425px) {
+    .cover__item {
+}}
+
+@media screen and (max-width: 320px) {
+    .cover__item {
+}} 

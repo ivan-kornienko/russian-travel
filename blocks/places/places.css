@@ -4,10 +4,10 @@
     grid-template-columns: 1fr;
     grid-template-rows: auto;
     gap: 80px;
-    
+    padding-top: 92px;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1280px) {
     .places {
         padding: 92px 11.6% 0px 11.6%;
         
@@ -23,7 +23,7 @@
         padding: 88px 3.1% 0px 3.1%;
 }}
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 620px) {
     .places {
         padding: 64px 0px 0px 0px;
 }}

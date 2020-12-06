@@ -12,12 +12,12 @@
         align-self: flex-start;
     -ms-grid-column-align: center;
         justify-self: center;
-    
+        padding-bottom: 64px;
     }
 
     @media screen and (max-width: 1440px) {
         .lead__subtitle {
-            padding-bottom: 64px;
+            
             
     }}
     

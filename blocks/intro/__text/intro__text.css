@@ -1,5 +1,4 @@
 .intro__text {
-    max-width: 690px;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -20,12 +19,12 @@
 
 @media screen and (max-width: 768px) {
     .intro__text {
-        max-width: calc(100vw - 48px);
+        /* max-width: calc(100vw - 48px); */
 }}
 
 @media screen and (max-width: 425px) {
     .intro__text {
-        max-width: calc(100vw - 32px);
+       /*  max-width: calc(100vw - 32px); */
 }}
 
 @media screen and (max-width: 320px) {

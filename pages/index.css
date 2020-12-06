@@ -1,8 +1,8 @@
-/* fonts */
-@import url(../fonts/fonts.css);
-
 /* vendor */
 @import url(../vendor/normalize.css);
+
+/* fonts */
+@import url(../fonts/fonts.css);
 
 /* page */
 @import url(../blocks/page/page.css);
@@ -12,9 +12,10 @@
 
 /* header */
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_ru/header__lang-link_ru.css);
-@import url(../blocks/header/__lang-link/_en/header__lang-link_en.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+@import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
 /* lead */
@@ -32,6 +33,7 @@
 @import url(../blocks/intro/__list-text/_span/intro__list-text_span.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list-numbers/intro__list-numbers.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
 /* photo-grid */

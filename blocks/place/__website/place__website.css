@@ -22,7 +22,7 @@
     .place__website {
 }}
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 620px) {
     .place__website {
         display: none;
 }}

@@ -8,12 +8,12 @@
             justify-content: center;
     -ms-flex-line-pack: center;
         align-content: center;
-    
+        padding-top: 56px;
     
    
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1280px) {
     .lead {
         padding: 56px 11.6% 0px 11.6%;
         

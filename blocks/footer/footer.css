@@ -12,12 +12,12 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
             justify-content: space-between;
-    
+            padding: 92px 3.8% 24px 3.8%;
 
 }
 @media screen and (max-width: 1440px) {
     .footer {
-        padding: 92px 3.8% 24px 3.8%;
+        
 }}
 
 @media screen and (max-width: 1024px) {

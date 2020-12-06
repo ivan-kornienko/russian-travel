@@ -7,3 +7,6 @@
 - БЭМ,
 - flex-box,
 - grid.
+
+### gh-pages
+https://ivan-kornienko.github.io/russian-travel/

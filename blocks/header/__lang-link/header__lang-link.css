@@ -6,6 +6,8 @@
     text-align: right;
     color: #FFFFFF;
     list-style: none;
+    margin-right: 18px;
+    text-decoration: none;
 }
 
 .header__lang-link:hover {
@@ -13,7 +15,7 @@
 }
 
 .header__lang-link:last-of-type {
-    margin-left: 18px;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 1440px) {
